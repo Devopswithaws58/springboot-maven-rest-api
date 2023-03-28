@@ -15,5 +15,5 @@ public class DemoApplication {
 	public String welcome() {
 		return "welcome to spring boot rest api";
 	}
-}}
+}
 
